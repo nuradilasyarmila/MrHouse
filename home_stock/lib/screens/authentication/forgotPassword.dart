@@ -33,7 +33,7 @@ class _ForgotPasswordState extends State<ForgotPassword> {
               ),
               SizedBox(height: 20.0),
               RaisedButton(
-                color: Colors.blue[800],
+                color: Colors.lightGreen[700],
                 child: Text(
                   'Dismiss',
                   style: TextStyle(color: Colors.white)
@@ -62,7 +62,7 @@ class _ForgotPasswordState extends State<ForgotPassword> {
               ),
               SizedBox(height: 20.0),
               RaisedButton(
-                color: Colors.blue[800],
+                color: Colors.lightGreen[700],
                 child: Text(
                   'Dismiss',
                   style: TextStyle(color: Colors.white)
@@ -116,7 +116,7 @@ class _ForgotPasswordState extends State<ForgotPassword> {
                     ),
                   ),
                   RaisedButton(
-                    color: Colors.blue[800],
+                    color: Colors.lightGreen[700],
                     child: Text(
                       'Reset',
                       style: TextStyle(color: Colors.white)

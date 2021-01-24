@@ -29,7 +29,7 @@ class _RegisterState extends State<Register> {
     return loading ? Loading() : Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        backgroundColor: Colors.blue[800],
+        backgroundColor: Colors.lightGreen[700],
         elevation: 0.0,
         title: Text('Register to HomeStock'),
         actions: <Widget>[
@@ -106,7 +106,7 @@ class _RegisterState extends State<Register> {
                       }
                     }
                   },
-                  color: Colors.blue[800],
+                  color: Colors.lightGreen[700],
                   child: Text(
                     'Register',
                     style: TextStyle(color: Colors.white),
@@ -115,7 +115,7 @@ class _RegisterState extends State<Register> {
                 SizedBox(height: 12.0),
                 Text(
                   error,
-                  style: TextStyle(color: Colors.red, fontSize: 14.0),
+                  style: TextStyle(color: Colors.blue, fontSize: 14.0),
                   textAlign: TextAlign.center,
                 )
               ],

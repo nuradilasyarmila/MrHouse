@@ -48,7 +48,7 @@ class _ShareInventoryState extends State<ShareInventory> {
               ),
               SizedBox(height: 20.0),
               RaisedButton(
-                color: Colors.red,
+                color: Colors.lightGreen[700],
                 child: Text(
                   'Remove',
                   style: TextStyle(color: Colors.white)
@@ -73,7 +73,7 @@ class _ShareInventoryState extends State<ShareInventory> {
                             ),
                             SizedBox(height: 20.0),
                             RaisedButton(
-                              color: Colors.blue[800],
+                              color: Colors.lightGreen[700],
                               child: Text(
                                 'Dismiss',
                                 style: TextStyle(color: Colors.white)
@@ -129,7 +129,7 @@ class _ShareInventoryState extends State<ShareInventory> {
                 ),
                 SizedBox(height: 20.0),
                 RaisedButton(
-                  color: Colors.blue[800],
+                  color: Colors.lightGreen[700],
                   child: Text(
                     'Share',
                     style: TextStyle(color: Colors.white)
@@ -152,7 +152,7 @@ class _ShareInventoryState extends State<ShareInventory> {
                               ),
                               SizedBox(height: 20.0),
                               RaisedButton(
-                                color: Colors.blue[800],
+                                color: Colors.lightGreen[700],
                                 child: Text(
                                   'Dismiss',
                                   style: TextStyle(color: Colors.white)
@@ -198,7 +198,7 @@ class _ShareInventoryState extends State<ShareInventory> {
                               ),
                               SizedBox(height: 20.0),
                               RaisedButton(
-                                color: Colors.blue[800],
+                                color: Colors.lightGreen[700],
                                 child: Text(
                                   'Dismiss',
                                   style: TextStyle(color: Colors.white)
@@ -236,7 +236,7 @@ class _ShareInventoryState extends State<ShareInventory> {
                 ),
                 SizedBox(height: 20.0),
                 RaisedButton(
-                  color: Colors.blue[800],
+                  color: Colors.lightGreen[700],
                   child: Text(
                     'Dismiss',
                     style: TextStyle(color: Colors.white)
@@ -300,7 +300,7 @@ class _ShareInventoryState extends State<ShareInventory> {
                             ),
                             SizedBox(height: 20.0),
                             RaisedButton(
-                              color: Colors.blue[800],
+                              color: Colors.lightGreen[700],
                               child: Text(
                                 'Dismiss',
                                 style: TextStyle(color: Colors.white)
@@ -417,7 +417,7 @@ class _ShareInventoryState extends State<ShareInventory> {
               ),
               SizedBox(height: 20.0),
               RaisedButton(
-                color: Colors.blue[800],
+                color: Colors.lightGreen[700],
                 child: Text(
                   'Dismiss',
                   style: TextStyle(color: Colors.white)
@@ -457,7 +457,7 @@ class _ShareInventoryState extends State<ShareInventory> {
               ),
               SizedBox(height: 20.0),
               RaisedButton(
-                color: Colors.blue[800],
+                color: Colors.lightGreen[700],
                 child: Text(
                   'Dismiss',
                   style: TextStyle(color: Colors.white)
@@ -479,7 +479,7 @@ class _ShareInventoryState extends State<ShareInventory> {
       onTap: (){FocusScope.of(context).requestFocus(new FocusNode());},
       child: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.blue[800],
+          backgroundColor: Colors.lightGreen[700],
           title:Text('Share Inventory'),
           centerTitle: true,
         ),
@@ -517,7 +517,7 @@ class _ShareInventoryState extends State<ShareInventory> {
             ),
             SizedBox(height: 10.0),
             RaisedButton(
-              color: Colors.blue[800],
+              color: Colors.lightGreen[700],
               child: Text(
                 'Share',
                 style: TextStyle(color: Colors.white)

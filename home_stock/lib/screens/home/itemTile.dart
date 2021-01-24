@@ -51,7 +51,7 @@ class ItemTile extends StatelessWidget {
                 ),
                 SizedBox(height: 20.0),
                 RaisedButton(
-                  color: Colors.blue,
+                  color: Colors.lightGreen[700],
                   child: Text(
                     'Add',
                     style: TextStyle(color: Colors.white)
@@ -94,7 +94,7 @@ class ItemTile extends StatelessWidget {
                 ),
                 SizedBox(height: 20.0),
                 RaisedButton(
-                  color: Colors.red,
+                  color: Colors.lightGreen[700],
                   child: Text(
                     'Remove',
                     style: TextStyle(color: Colors.white)
@@ -137,7 +137,7 @@ class ItemTile extends StatelessWidget {
                 ),
                 SizedBox(height: 20.0),
                 RaisedButton(
-                  color: Colors.red,
+                  color: Colors.lightGreen[700],
                   child: Text(
                     'Delete',
                     style: TextStyle(color: Colors.white)
@@ -210,7 +210,7 @@ class ItemTile extends StatelessWidget {
                   onPressed: () {_showStockingPanel('Destock',listForUser.items);}, 
                   icon: Icon(
                     Icons.do_not_disturb_on,
-                    color: Colors.red[400],
+                    color: Colors.red,
                     size: 26,
                   ), 
                   label: Text('Destock')

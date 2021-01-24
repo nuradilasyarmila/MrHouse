@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:home_stock/screens/authentication/forgotPassword.dart';
 import 'package:home_stock/screens/shared/loading.dart';
 import 'package:home_stock/services/auth.dart';
+import 'package:home_stock/screens/authentication/fingerprint.dart';
+
+import 'fingerprint.dart';
+
 
 class SignIn extends StatefulWidget {
 
@@ -38,7 +42,7 @@ class _SignInState extends State<SignIn> {
     return  loading ? Loading() : Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        backgroundColor: Colors.blue[800],
+        backgroundColor: Colors.lightGreen[700],
         elevation: 0.0,
         title: Text('HomeStock'),
         centerTitle: true,
@@ -109,7 +113,7 @@ class _SignInState extends State<SignIn> {
                           }
                         }
                       },
-                      color: Colors.blue[800],
+                      color: Colors.lightGreen[700],
                       child: Text(
                         'Sign In',
                         style: TextStyle(color: Colors.white),
@@ -132,6 +136,19 @@ class _SignInState extends State<SignIn> {
                       ),
                       onTap: () {
                         widget.toggleView();
+                      },
+                    ),
+                    InkWell(
+                      child: Text(
+                        'Use Finger Print ',
+                        style: TextStyle(
+                            color: Colors.blue[900],
+                            fontSize: 16.0,
+                            decoration: TextDecoration.underline
+                        ),
+                      ),
+                      onTap: () {
+                        Navigator.pushReplacement(context, MaterialPageRoute(builder: (c) =>FingerPrint()));
                       },
                     )
                   ],

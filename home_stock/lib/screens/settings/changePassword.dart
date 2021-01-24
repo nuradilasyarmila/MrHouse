@@ -34,7 +34,7 @@ class _ChangePasswordState extends State<ChangePassword> {
               ),
               SizedBox(height: 20.0),
               RaisedButton(
-                color: Colors.blue[800],
+                color: Colors.lightGreen[700],
                 child: Text(
                   'Dismiss',
                   style: TextStyle(color: Colors.white)
@@ -63,7 +63,7 @@ class _ChangePasswordState extends State<ChangePassword> {
               ),
               SizedBox(height: 20.0),
               RaisedButton(
-                color: Colors.blue[800],
+                color: Colors.lightGreen[700],
                 child: Text(
                   'Dismiss',
                   style: TextStyle(color: Colors.white)
@@ -135,7 +135,7 @@ class _ChangePasswordState extends State<ChangePassword> {
                     ),
                   ),
                   RaisedButton(
-                    color: Colors.blue[800],
+                    color: Colors.red,
                     child: Text(
                       'Reset',
                       style: TextStyle(color: Colors.white)

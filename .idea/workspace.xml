@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03054730-085d-42c5-b606-9d110e5c46b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HomeStock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_stock/lib/screens/authentication/fingerprint.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/android/app/src/main/kotlin/com/example/home_stock/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/android/app/src/main/kotlin/com/example/home_stock/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/fonts/Montserrat-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/assets/homestockLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/assets/homestockLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/authentication/authenticate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/authentication/authenticate.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/authentication/forgotPassword.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/authentication/forgotPassword.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/authentication/register.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/authentication/register.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/authentication/sign_in.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/authentication/sign_in.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/home/addItem.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/home/addItem.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/home/editItem.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/home/editItem.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/home/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/home/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/home/itemTile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/home/itemTile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/home/updateStock.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/home/updateStock.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/settings/changeName.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/settings/changeName.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/settings/changePassword.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/settings/changePassword.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/settings/helpAndSupport.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/settings/settings.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/settings/settings.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/settings/shareInventory.dart" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/lib/screens/settings/shareInventory.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/lib/screens/shoppingList/shoppingList.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_stock/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/home_stock/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mW6YygaBMden4lKaYzX7ikudTX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\AndroidStudioProjects\HomeStock\home_stock\android\app" />
+      <recent name="C:\Users\admin\AndroidStudioProjects\HomeStock\home_stock\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="Unnamed" type="FlutterBazelRunConfigurationType" factoryName="Flutter (Bazel)">
+      <option name="enableReleaseMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/home_stock/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/home_stock/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Flutter (Bazel).Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03054730-085d-42c5-b606-9d110e5c46b2" name="Default Changelist" comment="" />
+      <created>1609597050377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609597050377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1611410180880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1611410180880" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611381967789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1611381967789" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1611381917536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1611381917536" />
+    <state x="100" y="100" width="1336" height="624" key="AVDManager" timestamp="1611380412070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1611380412070" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611408631736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611408631736" />
+    <state width="1491" height="230" key="GridCell.Tab.0.bottom" timestamp="1611465063039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611465063039" />
+    <state width="1491" height="230" key="GridCell.Tab.0.center" timestamp="1611465063038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="230" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611465063038" />
+    <state width="1491" height="230" key="GridCell.Tab.0.left" timestamp="1611465063038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="230" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611465063038" />
+    <state width="1491" height="230" key="GridCell.Tab.0.right" timestamp="1611465063038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="230" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611465063038" />
+    <state x="277" y="63" key="SettingsEditor" timestamp="1611381840865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="63" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611381840865" />
+  </component>
+</project>

@@ -6,7 +6,6 @@ import 'package:home_stock/screens/home/addItem.dart';
 import 'package:home_stock/screens/home/itemList.dart';
 import 'package:home_stock/screens/settings/settings.dart';
 import 'package:home_stock/screens/shared/loading.dart';
-import 'package:home_stock/screens/shoppingList/shoppingList.dart';
 import 'package:home_stock/services/database.dart';
 import 'package:home_stock/services/auth.dart';
 import 'package:provider/provider.dart';
@@ -66,29 +65,11 @@ class _HomeState extends State<Home> {
         onTap: (){FocusScope.of(context).requestFocus(new FocusNode());},
         child: Scaffold(
           appBar: AppBar(
-            backgroundColor: Colors.blue[800],
-            title: Text('HomeStock'),
+            backgroundColor: Colors.lightGreen[700],
+            title: Text('Mr. House'),
             centerTitle: true,
             elevation: 0.0,
             actions: <Widget>[
-              IconButton(
-                icon: Icon(Icons.shopping_cart),
-                tooltip: 'Shopping List',
-                onPressed: () async {
-                  await Navigator.push(
-                    context,
-                    MaterialPageRoute(builder: (context) => 
-                      StreamProvider<List<Item>>.value(
-                        value: DatabaseService(uid: listForUser.items).itemData,
-                        child: StreamProvider<UserData>.value(
-                          value: DatabaseService(uid: listForUser.items).userData,
-                          child: ShoppingList()
-                        )
-                      )
-                    ),
-                  );
-                },
-              ),
               IconButton(
                 icon: notifications.length != 0 ? Badge(
                   badgeContent: Text(notifications.length.toString()),
@@ -118,7 +99,7 @@ class _HomeState extends State<Home> {
                 return ListTile(
                   leading: CircleAvatar(
                     radius: 25.0,
-                    backgroundColor: Colors.blue[800],
+                    backgroundColor: Colors.lightGreen[700],
                     backgroundImage: AssetImage('assets/${choices[index].title.split(" ")[0]}.png'),
                   ),
                   title: Text(choices[index].title, style: TextStyle(fontSize: 17.0, fontWeight: choices[index].title == _type ? FontWeight.bold : null),),
@@ -140,7 +121,7 @@ class _HomeState extends State<Home> {
               _showAddItemPanel();
             },
             child: Icon(Icons.add),
-            backgroundColor: Colors.blue[800],
+            backgroundColor: Colors.lightGreen[700],
           ), 
         ),
       ),

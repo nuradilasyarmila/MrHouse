@@ -54,7 +54,7 @@ class _EditItemState extends State<EditItem> {
               ),
               SizedBox(height: 20.0),
               RaisedButton(
-                color: Colors.blue[800],
+                color: Colors.lightGreen[700],
                 child: Text(
                   'Dismiss',
                   style: TextStyle(color: Colors.white)
@@ -119,7 +119,7 @@ class _EditItemState extends State<EditItem> {
             ),
             SizedBox(height: 20.0),
             RaisedButton(
-              color: Colors.blue[800],
+              color: Colors.lightGreen[700],
               child: Text(
                 'Edit Item',
                 style: TextStyle(color: Colors.white)
